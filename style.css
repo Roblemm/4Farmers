@@ -1,0 +1,14 @@
+#header.jumbotron{
+    background:
+        linear-gradient(
+          rgba(255, 255, 255, 0.3), 
+          rgba(255, 255, 255, 0.3)
+        ), url("https://source.unsplash.com/fWAcK9YJmxY") center center/cover no-repeat;
+}
+.card-body .btn-outline-warning:hover{
+    color: white;
+}
+.card>img{
+    max-width: 100%;
+    object-fit: cover;
+}
